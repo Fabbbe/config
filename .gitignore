@@ -1,2 +1,9 @@
+# Set up repo as a whitelist
 *
-!nvim/
+!*/
+
+# Track this file
+!.gitignore
+
+# Neovim
+!nvim/**
