@@ -1,6 +1,0 @@
-{
-  "lazy.nvim": { "branch": "main", "commit": "31ddbea7c10b6920c9077b66c97951ca8682d5c8" },
-  "nerdicons.nvim": { "branch": "main", "commit": "6dfb8abaf278f6075605902f5e79b8fef9403b3b" },
-  "nvim-lspconfig": { "branch": "master", "commit": "96e5711040df23583591391ce49e556b8cd248d8" },
-  "rustaceanvim": { "branch": "master", "commit": "e2dbf91daed26d4dd7263affbecbf9a36e0096e5" }
-}
