@@ -1,0 +1,30 @@
+
+" Destroy backwards compatibility
+set nocompatible
+
+syntax on
+
+" Maybe shorcut to toggle relativenumber?
+set number
+
+filetype plugin on
+
+set autoindent
+
+set clipboard=unnamedplus
+
+" VIM COLORS 
+" There should be something added here if PaperColor doesn't exist
+set t_Co=256
+set background=light
+colorscheme PaperColor
+
+hi Normal ctermbg=none
+hi NonText ctermbg=none
+hi NonText ctermbg=none
+
+" Search/Replace in visual mode
+vnoremap <C-r> "hy:%s/<C-r>h//gc<left><left><left>
+
+
+
