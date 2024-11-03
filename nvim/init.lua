@@ -25,7 +25,7 @@ local options = {
 
 vim.cmd([[
 colorscheme retrobox
-set background=light
+set background=dark
 hi Normal guibg=NONE ctermbg=NONE
 "hi NonText guibg=NONE ctermbg=NONE
 "hi EndOfBuffer guibg=NONE ctermbg=NONE
